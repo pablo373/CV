@@ -1,0 +1,31 @@
+  body {
+    background-color: #cdc9c3
+  }
+
+  hr {
+      border-style: none;
+      border-top-style: dotted;
+      border-color: #663f3f;
+      border-width: 6px;
+      width: 90%;
+  }
+
+  h1 {
+    color: #663f3f
+  }
+
+  h3 {
+    color: #663f3f
+  }
+
+/*****************************Class Selectors**********************/
+.profilepic {
+  background-color: #cdc9c3
+}
+.profilepic {
+  height: 100px;
+  width: 100px;
+}
+.circular {
+  border-radius: 100%
+}
